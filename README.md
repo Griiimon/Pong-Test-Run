@@ -5,10 +5,8 @@ Required Software:
 
 ### Guides:
 
-*Beginner Guide to Godot and Git*
-  Fundamentals
+:closed_book: *Beginner Guide to Godot and Git*
 
-[Our Short Game Jam Coders Guide]()
-  From task assignment to integration
+:closed_book: [From task assignment to integration](docs/coding_guide.md)
 
-*Contributors Guide*  [TL;DR]()
+:closed_book: *Contributors Guide*  [TL;DR](docs/contributing_tldr.md)
