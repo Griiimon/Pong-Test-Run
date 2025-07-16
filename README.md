@@ -5,7 +5,7 @@ Required Software:
 
 ### Guides:
 
-:closed_book: *Beginner Guide to Godot and Git*
+:closed_book: [Beginner Guide to Godot and Git](https://blog.paulhartman.dev/100-dev-setup)
 
 :closed_book: [From task assignment to integration](docs/coding_guide.md)
 
