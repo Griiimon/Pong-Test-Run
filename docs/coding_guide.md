@@ -9,7 +9,7 @@ a. With the goal in mind make a rough plan on how you can approach the task at h
 b. If you are unsure at this point, ask someone in your team for their opinion
 
 ### 4. [GIT]
-Fetch any new changes from the remote repo, add a new branch from "main", and name according to your teams convention\
+Fetch any new changes from the remote repo, add a new branch from "main", and name according to your teams convention
 
 ### 5. [GODOT / IDE] 
 a. Implement ALL of the changes mentioned in the task\
@@ -23,7 +23,7 @@ f. Test ( within reason ) if the game overall didn't break
 a. Commit ALL of the changes you made to your branch\
 b. Push your branch to the remote repo\
 c. If there have been changes on the "main" in the meantime merge it into your branch\
-d. If there are any merge conflicts, resolve them, commit, and push to the remote repo again\
+d. If there are any merge conflicts, resolve them, commit, and push to the remote repo again
 
 ### 7. [GITHUB]
 Create a new pull request, merging your new branch into the "main" branch
