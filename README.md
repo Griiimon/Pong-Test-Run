@@ -9,4 +9,4 @@ Required Software:
 
 :closed_book: [From task assignment to integration](docs/coding_guide.md)
 
-:closed_book: *Contributors Guide*  [TL;DR](docs/contributing_tldr.md)
+:closed_book: [Contributors Guide](docs/contributing.md)  [TL;DR](docs/contributing_tldr.md)
